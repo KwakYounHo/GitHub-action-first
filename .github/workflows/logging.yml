@@ -23,11 +23,13 @@ jobs:
         run: node .github/workflows/commit-logger.js
 
       - name: Log-push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.name "Workflow"
           git config --local user.email "kwakyh951@gmail.com"
           git add log/commit/commit-log.txt
           git commit -m "saved commit logs"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/KwakYounHo/GitHub-action-first.git
+
+      - name: Push-Log
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
