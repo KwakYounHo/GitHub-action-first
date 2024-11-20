@@ -11,3 +11,21 @@ commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/27a603b8242
 commit-id: 27a603b8242ecd20b21cea6fbeb04f8e8d924b1c
 commit-time: 2024-11-20T14:31:03+09:00
 $*
+*$new commit
+commit-message: p태그 삭제
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/e250787e8899bbf8a82dfd300fcce9007cbdfb30
+commit-id: e250787e8899bbf8a82dfd300fcce9007cbdfb30
+commit-time: 2024-11-20T14:39:55+09:00
+$*
+*$new commit
+commit-message: 동적으로 p태그를 생성하는 js파일 생성
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/0021a7c7ce8dfb758696309eabc95e3c21894095
+commit-id: 0021a7c7ce8dfb758696309eabc95e3c21894095
+commit-time: 2024-11-20T14:40:16+09:00
+$*
+*$new commit
+commit-message: 스크립트 파일 연결
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/2fce17cf74378ff66424b9264ece290f0b29cc68
+commit-id: 2fce17cf74378ff66424b9264ece290f0b29cc68
+commit-time: 2024-11-20T14:40:23+09:00
+$*
