@@ -15,7 +15,7 @@ ${commit.message}
 - commit id: ${commit.id}
 - commit time: ${commit.timestamp}
   `;
-    fs.readFileSync(file, message, "utf8");
+    fs.appendFileSync(file, message, "utf8");
   });
 } catch (e) {
   console.error(e);
