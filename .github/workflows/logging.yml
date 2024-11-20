@@ -21,3 +21,11 @@ jobs:
 
       - name: Running-logger
         run: node .github/workflows/commit-logger.js
+
+      - name: Log-push
+        run: |
+        git config --local user.name "Workflow"
+        git config --local user.email "kwakyh951@gmail.com"
+        git add log/commit/commit-log.txt
+        git commit -m "saved commit logs"
+        git push
