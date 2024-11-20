@@ -35,3 +35,9 @@ commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/76af7c52808
 commit-id: 76af7c52808e1959e5c1a06f88286d02e6fa488e
 commit-time: 2024-11-20T14:43:52+09:00
 $*
+*$new commit
+commit-message: 양식 규격화
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/2c54e87fa9ec9702dd917a858402c41fd734e728
+commit-id: 2c54e87fa9ec9702dd917a858402c41fd734e728
+commit-time: 2024-11-20T14:50:49+09:00
+$*
