@@ -3,7 +3,7 @@
 - commit url: https://github.com/KwakYounHo/GitHub-action-first/commit/372ccbd17dc557accc25ec22307fc9e73edda940
 - commit id: 372ccbd17dc557accc25ec22307fc9e73edda940
 - commit time: 2024-11-20T14:16:34+09:00
-  
+&*
 *$new commit
 commit-message: 예외처리하면 안되는 것으로
 하지만 -f 강제 플래그를 사용하면 가능은 하다고 함
