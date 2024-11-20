@@ -1,0 +1,7 @@
+*$new commit
+- commit message:
+push Repo 사용
+- commit url: https://github.com/KwakYounHo/GitHub-action-first/commit/372ccbd17dc557accc25ec22307fc9e73edda940
+- commit id: 372ccbd17dc557accc25ec22307fc9e73edda940
+- commit time: 2024-11-20T14:16:34+09:00
+  
