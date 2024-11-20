@@ -1,6 +1,8 @@
 const fs = require("fs");
 
-// const commits = JSON.parse(process.env.GITHUB_EVENT_PATH).commits;
+const commits = JSON.parse(
+  fs.readFileSync(process.env.GITHUB_EVENT_PATH)
+).commits;
 
 const file = "log/commit/commit-log.txt";
 
@@ -19,6 +21,6 @@ const file = "log/commit/commit-log.txt";
 //   console.error(e);
 // }
 
-console.log(process.env.GITHUB_EVENT_PATH);
+console.log(commits);
 
 console.log("commit saving workflow is done");
