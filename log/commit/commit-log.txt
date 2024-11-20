@@ -29,3 +29,9 @@ commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/2fce17cf743
 commit-id: 2fce17cf74378ff66424b9264ece290f0b29cc68
 commit-time: 2024-11-20T14:40:23+09:00
 $*
+*$new commit
+commit-message: workflow/job/steps 이름 변경
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/76af7c52808e1959e5c1a06f88286d02e6fa488e
+commit-id: 76af7c52808e1959e5c1a06f88286d02e6fa488e
+commit-time: 2024-11-20T14:43:52+09:00
+$*
