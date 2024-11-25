@@ -95,3 +95,9 @@ commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/b5c14514480
 commit-id: b5c1451448074d380c4af07f2a4d5f3ff95eaf20
 commit-time: 2024-11-25T20:25:25+09:00
 $*
+*$new commit
+commit-message: fix: 변수 다시 설정
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/13bfeca6657a9762f89c5552406067ee82a70219
+commit-id: 13bfeca6657a9762f89c5552406067ee82a70219
+commit-time: 2024-11-25T20:31:00+09:00
+$*
