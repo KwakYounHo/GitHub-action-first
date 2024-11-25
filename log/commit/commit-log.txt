@@ -89,3 +89,9 @@ commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/c2017b6dab0
 commit-id: c2017b6dab0e91a964fea123734af5879ab30aee
 commit-time: 2024-11-25T20:16:07+09:00
 $*
+*$new commit
+commit-message: fix: name change
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/b5c1451448074d380c4af07f2a4d5f3ff95eaf20
+commit-id: b5c1451448074d380c4af07f2a4d5f3ff95eaf20
+commit-time: 2024-11-25T20:25:25+09:00
+$*
