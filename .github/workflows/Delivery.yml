@@ -16,7 +16,7 @@ jobs:
 
       - name: Build Docker and Copy files
         run: |
-          docker build -t delivery-app
+          docker build -t delivery-app .
           docker run --name copy-this delivery-app
           docker cp copy-this:/copy ./dist
 
