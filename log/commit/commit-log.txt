@@ -83,3 +83,9 @@ commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/081949a6dac
 commit-id: 081949a6dacac94f90f494ceae27b7085e65ea34
 commit-time: 2024-11-25T18:04:58+09:00
 $*
+*$new commit
+commit-message: fix: 리터럴로 변경(리전)
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/c2017b6dab0e91a964fea123734af5879ab30aee
+commit-id: c2017b6dab0e91a964fea123734af5879ab30aee
+commit-time: 2024-11-25T20:16:07+09:00
+$*
