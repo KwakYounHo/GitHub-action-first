@@ -101,3 +101,9 @@ commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/13bfeca6657
 commit-id: 13bfeca6657a9762f89c5552406067ee82a70219
 commit-time: 2024-11-25T20:31:00+09:00
 $*
+*$new commit
+commit-message: test: CD Test
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/313946bb205a18d8c13ebc204e1512cc983a6541
+commit-id: 313946bb205a18d8c13ebc204e1512cc983a6541
+commit-time: 2024-11-25T20:34:23+09:00
+$*
