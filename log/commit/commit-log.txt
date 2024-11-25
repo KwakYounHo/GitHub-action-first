@@ -71,3 +71,9 @@ commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/d2cd670c5cb
 commit-id: d2cd670c5cb10ea58794d0a97b22fa1a327244f5
 commit-time: 2024-11-25T17:53:43+09:00
 $*
+*$new commit
+commit-message: fix: 변수명 변경
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/5de1f1b28a11ea02a38704ab7aa748e39acfa274
+commit-id: 5de1f1b28a11ea02a38704ab7aa748e39acfa274
+commit-time: 2024-11-25T18:03:09+09:00
+$*
