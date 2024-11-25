@@ -23,9 +23,9 @@ jobs:
       - name: Configuration AWS
         uses: aws-actions/configure-aws-credentials@v3
         with:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_ACCESS_KEY_SECRET: ${{ secrets.AWS.ACCESS_KEY_SECRET }}
-          AWS_REGION: "ap-northeast-2"
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS.ACCESS_KEY_SECRET }}
+          aws-region: "ap-northeast-2"
 
       - name: To AWS S3
         run: |
