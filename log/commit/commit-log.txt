@@ -59,3 +59,9 @@ commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/088a9f960f8
 commit-id: 088a9f960f8f0dbd4459bf8d4ede50289810eca0
 commit-time: 2024-11-25T17:46:18+09:00
 $*
+*$new commit
+commit-message: feat: 소문자
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/ec6facb7b3d46e825ee654600f3bd6a36f591df4
+commit-id: ec6facb7b3d46e825ee654600f3bd6a36f591df4
+commit-time: 2024-11-25T17:48:55+09:00
+$*
