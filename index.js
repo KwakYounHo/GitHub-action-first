@@ -9,3 +9,7 @@ const paragraphTwo = document.createElement("p");
 paragraphTwo.innerHTML =
   "GitHub Actions와 Docker 그리고 AWS-S3를 이용해서 CD 파이프라인을 구축 중입니다.";
 root.appendChild(paragraphTwo);
+
+const paragraphThree = document.createElement("p");
+paragraphThree.innerHTML = "안녕하세요 저는 머슴러닝 입니다.";
+root.appendChild(paragraphThree);
