@@ -113,3 +113,9 @@ commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/db3880fcf4f
 commit-id: db3880fcf4f8e49c37276c33b8ebf5dd1962e457
 commit-time: 2024-11-25T20:38:28+09:00
 $*
+*$new commit
+commit-message: chore: test
+commit-url: https://github.com/KwakYounHo/GitHub-action-first/commit/27810011c863da05d62aebf7ad3e72c9e3b2475d
+commit-id: 27810011c863da05d62aebf7ad3e72c9e3b2475d
+commit-time: 2024-11-27T21:45:14+09:00
+$*
